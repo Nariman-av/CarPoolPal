@@ -1,0 +1,9 @@
+.TripCreationForm {
+    padding: 250 150 250 150;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: cadetblue;
+    min-height: 100vh;
+    min-width: 100vw;
+}
